@@ -1,0 +1,6 @@
+c:\users\dadakj\documents\visual studio 2015\Projects\DotNetVersionChecker\DotNetVersionChecker\bin\Debug\DotNetVersionChecker.exe.config
+c:\users\dadakj\documents\visual studio 2015\Projects\DotNetVersionChecker\DotNetVersionChecker\bin\Debug\DotNetVersionChecker.exe
+c:\users\dadakj\documents\visual studio 2015\Projects\DotNetVersionChecker\DotNetVersionChecker\bin\Debug\DotNetVersionChecker.pdb
+c:\users\dadakj\documents\visual studio 2015\Projects\DotNetVersionChecker\DotNetVersionChecker\obj\Debug\DotNetVersionChecker.csprojResolveAssemblyReference.cache
+c:\users\dadakj\documents\visual studio 2015\Projects\DotNetVersionChecker\DotNetVersionChecker\obj\Debug\DotNetVersionChecker.exe
+c:\users\dadakj\documents\visual studio 2015\Projects\DotNetVersionChecker\DotNetVersionChecker\obj\Debug\DotNetVersionChecker.pdb
